@@ -1,0 +1,5 @@
+## Interface: 90207
+## Title: Check Posture Retail
+## Notes: Alerts you to check your posture every 15 minutes.
+## Author: Jamie Hoy <zelgados@icloud.com>
+core.lua
